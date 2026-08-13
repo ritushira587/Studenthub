@@ -1,7 +1,9 @@
+import "../styles/Footer.css";
+
 function Footer() {
   return (
     <footer className="footer">
-      <p>© 2026 StudentHub | Built with React ❤️</p>
+      <p>© 2026 StudentHub</p>
     </footer>
   );
 }
